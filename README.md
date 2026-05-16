@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="ajavadinezhad--zyrln"></div>
 
+### ajavadinezhad--zyrln
+
+🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.5.1-pre8</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.5.1-pre8)
+
+| File | Size | Download |
+|------|------|----------|
+| `zyrln-1.5.1-pre8-linux-amd64` | 10.9 MB | [⬇️ Download](https://raw.githubusercontent.com/SOBI-THE-GOD/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.5.1-pre8-linux-amd64) |
 <!-- RELEASES_END -->
